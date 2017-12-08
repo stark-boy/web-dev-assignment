@@ -7,10 +7,10 @@ display:table;
 }
 #abc{
 position: absolute;
-font-size:50;
-font-weight:500;
+font-size:xx-large;
+font-weight:1000;
 text-align:center;
-line-height:1100%;
+line-height:600px;
 background-color:#54ff9f;
 left:20%;
 width:80%;
@@ -18,12 +18,11 @@ height:100%;
 border:2px solid #000000;
 }
 .button{
-button-bottom:2px solid #000000;
+border-bottom:2px solid #000000;
 type:button;
 font-weight:bold;
 height:1.5cm;
 width:20%;
 display:block;
 background-color:pink;
-
 }
